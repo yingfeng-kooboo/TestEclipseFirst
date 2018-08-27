@@ -20,7 +20,7 @@ public class Test {
 			}.start();
 		}
 		System.out.println("test");
-		
+		System.out.println("new branch");
 	}
 
 }
