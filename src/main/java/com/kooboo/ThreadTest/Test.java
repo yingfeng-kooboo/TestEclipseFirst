@@ -19,6 +19,7 @@ public class Test {
 				}
 			}.start();
 		}
+		System.out.println("test");
 	}
 
 }
