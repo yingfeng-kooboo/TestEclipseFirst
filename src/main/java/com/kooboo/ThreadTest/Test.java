@@ -21,6 +21,7 @@ public class Test {
 		}
 		System.out.println("test");
 		System.out.println("new branch");
+		System.out.println("test feature");
 	}
 
 }
